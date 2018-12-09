@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544373074 source:d:\users\kamil\c++\projekty2\2drotation2\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+
